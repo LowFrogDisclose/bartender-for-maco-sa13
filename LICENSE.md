@@ -1,4 +1,4 @@
-
+Enhance Bartender for macOS with Bartender for macOS top Service: CPU-monitoring & clipboard-manager, the #1 service. Includes CPU-monitoring and clipboard-manager for a smoother
 
 
 
